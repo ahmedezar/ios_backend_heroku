@@ -1,0 +1,4 @@
+{
+  "database" : "mongodb+srv://ahmed:ahmed@cluster0.dzozf.mongodb.net/?retryWrites=true&w=majority",
+  "token_secret" : "encrypted-by-success"
+}
