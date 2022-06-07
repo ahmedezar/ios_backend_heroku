@@ -23,6 +23,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.2.0",
     "mongoose": "^6.0.3",
@@ -33,6 +35,5 @@
     "nodemon": "^2.0.14",
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.2.0"
-  },
-  "devDependencies": {}
+  }
 }
